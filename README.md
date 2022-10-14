@@ -12,11 +12,10 @@
 - 📫 How to reach me **finnt26@gmail.com**
 
 
-I am an engaged backend engineer with a 
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <ahref="https://www.linkedin.com/in/finntorbet/">LinkedIn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
