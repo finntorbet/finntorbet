@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/finntorbet/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/finntorbet/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="Link to LinkedIn profile"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
