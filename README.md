@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=finntorbet&show_icons=true&title_color=2369a9&locale=en&layout=compact&count_private=true&theme=tokyonight" alt="finntorbet" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=finntorbet&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="finntorbet" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=finntorbet&show_icons=true&locale=en&count_private=true&theme=tokyonight" alt="finntorbet" /></p>
