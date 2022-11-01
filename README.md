@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **an Inventory Management System** for [GoodBox](https://thegoodbox.com.au/)
 
-- 🌱 I’m currently learning **Requirement Gathering and Kubernetes and studying towards my AWS Solutions Architect certificate.**
+- 🌱 I’m currently studying towards my **AWS Solutions Architect certificate.**
 
-- 👯 I’m looking to collaborate on **anything!**
+- 👯 I’m looking to collaborate on **anything!**. Reach out if there is an open-source project you'd like to collaborate on!
 
 - 💬 Ask me about **Backend Frameworks, DevOps and Cloud.**
 
