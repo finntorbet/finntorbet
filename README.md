@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
 <h3 align="center">A software engineer from Scotland who's passionate about backend, DevOps and Cloud.</h3>
 
-- 🔭 I’m currently working on **an Inventory Management System** for [GoodBox](https://thegoodbox.com.au/)
+- 🔭 I’m currently looking for work in the Melbourne, Victoria area!
 
 - 🌱 I’m currently studying towards my **AWS Solutions Architect certificate.**
 
