@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Finn</h1>
-<h3 align="center">A software engineer from Scotland who's passionate about backend, DevOps and Cloud.</h3>
+<h3 align="center">A software engineer from Scotland who's passionate about Backend, DevOps and Cloud.</h3>
 
 - 🔭 I’m currently looking for work in the Melbourne, Victoria area!
 
-- 🌱 I’m currently studying towards my **AWS Solutions Architect certificate.**
+- 🌱 I’m currently working on my pet project freshtoons, have a **[look here!](https://github.com/finntorbet/freshtoons)**
 
 - 👯 I’m looking to collaborate on **anything!**. Reach out if there is an open-source project you'd like to collaborate on!
 
-- 💬 Ask me about **Backend Frameworks, DevOps and Cloud.**
+- 💬 Ask me about **Backend, DevOps and Cloud Engineering!**
 
 - 📫 How to reach me **finnt26@gmail.com**
 
+
+I am a curious engineer who enjoys learning new ways to tackle problems and how exciting new solutions work under the hood. I have professional experience running my own projects, refining stakeholder conversations into practical requirements and seeing the full software lifecycle out from inception to deployment and maintenance. Whilst I have frontend experience, I much prefer the backend and improving the deployment process. I am a strong advocate in best practises, always beleiving that time spent learning the best way to approach a solution will both better the development team and negate techinial debt in the long run. 
+
+My four years at University of Dundee has instilled in me a sense that software's main purpose is to **empower its users** in whatever the main functionality of the software is. To this end, I believe it to be engineers' responsibility to help nudge software to have main functionality that betters society and empowers everyone in it. I am a keen (and novice) student of AI Ethics and the implications that both established technologies and emerging ones incur. I hope to work for organisations that reflect this as I always work best with a strong purpose behind my work.
 
 
 <h3 align="left">Connect with me:</h3>
